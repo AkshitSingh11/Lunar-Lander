@@ -4,7 +4,7 @@ experience replay, target networks, and epsilon-greedy action selection.
 
 The goal of this project is to create an agent that successfully lands the Lunar Lander with minimal fuel consumption while avoiding crashes. 
 
-The model was trained to reach an average score of **200**, solving the environment in approximately **733** episodes.
+The model was trained to reach an average score of **200**, solving the environment in approximately **664** episodes.
 
 Acknowledgement:
 1) OpenAI for providing the original Gym environment and the foundational tools for reinforcement learning.
